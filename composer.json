@@ -1,0 +1,17 @@
+{
+    "name": "aki/dummyjson",
+    "autoload": {
+        "psr-4": {
+            "Aki\\Dummyjson\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TeradaAki",
+            "email": "terada.aki@yahoo.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
